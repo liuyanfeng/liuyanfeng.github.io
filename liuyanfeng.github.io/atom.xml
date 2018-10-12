@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[博客]]></title>
+  <link href="https://liuyanfeng.github.io/atom.xml" rel="self"/>
+  <link href="https://liuyanfeng.github.io/"/>
+  <updated>2018-10-12T16:51:20+08:00</updated>
+  <id>https://liuyanfeng.github.io/</id>
+  <author>
+    <name><![CDATA[]]></name>
+    
+  </author>
+  <generator uri="http://www.mweb.im">MWeb</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[革命性的历史时刻]]></title>
+    <link href="https://liuyanfeng.github.io/15393341982880.html"/>
+    <updated>2018-10-12T16:49:58+08:00</updated>
+    <id>https://liuyanfeng.github.io/15393341982880.html</id>
+    <content type="html"><![CDATA[
+<p>我的第一篇文章</p>
+
+]]></content>
+  </entry>
+  
+</feed>
